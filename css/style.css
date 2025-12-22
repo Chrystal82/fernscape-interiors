@@ -1,0 +1,117 @@
+.alice-regular {
+
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+body {
+
+    font-family: "Alice", serif;
+
+}
+
+.nav-link:link {
+
+    font-family: "Alice", serif;
+    color: #0f5138;
+    font-size: 30px;
+
+}
+
+.nav-link:hover {
+
+    color: #508b71;
+
+}
+
+.bg-custom {
+
+    background-color: #ffffff;
+
+}
+
+.logo {
+
+    width: 50%;
+
+}
+
+footer {
+
+    font-family: "Alice", serif;
+    background-color: #b06b34;
+    color: black;
+    display: flex;
+
+}
+
+h5 {
+
+    color: #0f5138;
+    font-size: 35px;
+    font-family: "Alice", serif;
+
+}
+
+.card {
+
+    box-shadow: 0 4px 10px #b06b34;
+    color: #0f5138;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+.bi {
+
+    color: #0f5138;
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.bi:hover {
+
+    color: #508b71;
+
+}
+
+.contact-info {
+
+    background-color: #7e9764;
+    color: black;
+    border-radius: 5px;
+
+}
+
+form {
+
+    font-family: "Alice", serif;
+    padding: 20px;
+    background-color: #7e9764 ;
+    color: black;
+    border-radius: 5px;
+}
+
+.business-hours {
+
+    background-color: #7e9764;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.btn {
+    font-family: "Alice", serif;
+    background-color: #f3b89c ;
+    color: #0f5138;
+}
+
+.btn:hover {
+    background-color: #508b71;
+    color: #ffffff;
+}
