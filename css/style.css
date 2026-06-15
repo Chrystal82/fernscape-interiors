@@ -12,6 +12,11 @@ body {
 
 }
 
+navbar {
+
+    align-content: center;
+}
+
 .nav-link:link {
 
     font-family: "Alice", serif;
